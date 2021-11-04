@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x9a7F25bA6A78A2f4b29e6e4cf5A176EFc4f1e2CB",
+  "OWNER_ADDRESS": "0x1123Aaf2d3AA6e075c9e7E232895818387826026",
+  "SCAN_LINK": "https://etherscan.io/address/0x9a7f25ba6a78a2f4b29e6e4cf5a176efc4f1e2cb",
+  "NETWORK": {
+    "NAME": "Ethereun",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "trippieheadz",
+  "SYMBOL": "TRIPP",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 99000000000000000,
+  "DISPLAY_COST": 0.099,
+  "GAS_LIMIT": 600000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/",
+  "SHOW_BACKGROUND": true
+}
